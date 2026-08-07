@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://raw.githubusercontent.com/vasastojka72-web/FORBES-Launcher-Releases/main/FORBES-Launcher.appinstaller"
+              Version="0.1.0.1"
+              xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainBundle Name="cfd5bd4b-6e7d-40e0-8e8b-56fa6224fe80"
+              Publisher="CN=FORBES"
+              Version="0.1.0.1"
+              Uri="https://github.com/vasastojka72-web/FORBES-Launcher-Releases/releases/download/v0.1.0-beta.1/FORBES-Launcher.msixbundle" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="true" UpdateBlocksActivation="false" />
+    <AutomaticBackgroundTask />
+  </UpdateSettings>
+</AppInstaller>
