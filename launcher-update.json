@@ -1,6 +1,6 @@
 {
   "channel": "beta",
-  "version": "0.1.2-beta.1",
-  "downloadUrl": "https://github.com/vasastojka72-web/FORBES-Launcher-Releases/releases/download/v0.1.2-beta.1/FORBES-Launcher-Setup.exe",
-  "notes": "FORBES Launcher 0.1.2 Beta: виправлено автооновлення, додано FORBES Binder та покращено стабільність."
+  "version": "2.0.0-beta.1",
+  "downloadUrl": "https://github.com/vasastojka72-web/FORBES-Launcher-Releases/releases/download/v2.0.0-beta.1/FORBES-Launcher-Setup.exe",
+  "notes": "FORBES Launcher Beta 2.0: оновлено Binder, додано профілі, підказки поверх гри, Redux Manager, налаштування дизайну та виправлено помилки."
 }
