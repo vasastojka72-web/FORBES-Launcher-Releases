@@ -1,6 +1,6 @@
 {
-  "channel": "beta",
-  "version": "2.0.0-beta.1",
-  "downloadUrl": "https://github.com/vasastojka72-web/FORBES-Launcher-Releases/releases/download/v2.0.0-beta.1/FORBES-Launcher-Setup.exe",
-  "notes": "FORBES Launcher Beta 2.0: оновлено Binder, додано профілі, підказки поверх гри, Redux Manager, налаштування дизайну та виправлено помилки."
+  "channel": "stable",
+  "version": "2.1.0",
+  "downloadUrl": "https://github.com/vasastojka72-web/FORBES-Launcher-Releases/releases/download/v2.1.0/FORBES-Launcher-Setup.exe",
+  "notes": "FORBES Launcher 2.1.0 Official: стабільна Discord-сесія, оновлення входу та вихід, актуальні ролі, персональні повідомлення про штрафи, догани, оплати, фарм-звіти й капти, повідомлення від старших, синхронізація з Backend та виправлення фону."
 }
